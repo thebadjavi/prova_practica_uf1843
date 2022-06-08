@@ -1,0 +1,24 @@
+@media (max-width: 600px) {
+    
+
+ 
+            
+    
+    /* Exercici 6*/
+}
+
+@media (max-width: 375px) {
+    /** Exercici 8 */
+    body {
+        background-image: url(" ");
+       }
+   
+
+
+    
+}
+ 
+/*add alt <img class="site-logo-bg" src="img/logo-bg.png">
+
+.grid-content-tile-img { alt="Girl in a jacket"  }
+*/
