@@ -2,9 +2,14 @@
     
 
  
-            
+    .container {
+        display: block;
+    }
     
     /* Exercici 6*/
+    .grid-content {
+        display: block;
+     }
 }
 
 @media (max-width: 375px) {
